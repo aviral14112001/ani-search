@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ani-search/static/css/main.090ddfc4.css",
+    "main.js": "/ani-search/static/js/main.55cb1806.js",
+    "index.html": "/ani-search/index.html",
+    "static/media/search.svg": "/ani-search/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.090ddfc4.css.map": "/ani-search/static/css/main.090ddfc4.css.map",
+    "main.55cb1806.js.map": "/ani-search/static/js/main.55cb1806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.090ddfc4.css",
+    "static/js/main.55cb1806.js"
+  ]
+}
